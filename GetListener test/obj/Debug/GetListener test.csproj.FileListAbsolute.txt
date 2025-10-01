@@ -1,0 +1,20 @@
+C:\Users\leo\Desktop\測試\GetListener test\bin\Debug\GetListener test.exe.config
+C:\Users\leo\Desktop\測試\GetListener test\bin\Debug\GetListener test.exe
+C:\Users\leo\Desktop\測試\GetListener test\bin\Debug\GetListener test.pdb
+C:\Users\leo\Desktop\測試\GetListener test\obj\Debug\GetListener test.csproj.AssemblyReference.cache
+C:\Users\leo\Desktop\測試\GetListener test\obj\Debug\GetListener_test.Form1.resources
+C:\Users\leo\Desktop\測試\GetListener test\obj\Debug\GetListener_test.Properties.Resources.resources
+C:\Users\leo\Desktop\測試\GetListener test\obj\Debug\GetListener test.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\測試\GetListener test\obj\Debug\GetListener test.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\測試\GetListener test\obj\Debug\GetListener test.exe
+C:\Users\leo\Desktop\測試\GetListener test\obj\Debug\GetListener test.pdb
+C:\Users\leo\Desktop\GetListener test\bin\Debug\GetListener test.exe.config
+C:\Users\leo\Desktop\GetListener test\bin\Debug\GetListener test.exe
+C:\Users\leo\Desktop\GetListener test\bin\Debug\GetListener test.pdb
+C:\Users\leo\Desktop\GetListener test\obj\Debug\GetListener test.csproj.AssemblyReference.cache
+C:\Users\leo\Desktop\GetListener test\obj\Debug\GetListener_test.Form1.resources
+C:\Users\leo\Desktop\GetListener test\obj\Debug\GetListener_test.Properties.Resources.resources
+C:\Users\leo\Desktop\GetListener test\obj\Debug\GetListener test.csproj.GenerateResource.cache
+C:\Users\leo\Desktop\GetListener test\obj\Debug\GetListener test.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\GetListener test\obj\Debug\GetListener test.exe
+C:\Users\leo\Desktop\GetListener test\obj\Debug\GetListener test.pdb
